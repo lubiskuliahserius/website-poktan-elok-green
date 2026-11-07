@@ -1,0 +1,6 @@
+{
+  "name": "Poktan Elok Green Lestari - Eduwisata Urban Farming",
+  "description": "Website resmi dan pusat informasi Eduwisata Urban Farming Poktan Elok Green Lestari Surabaya. Mengenal pertanian perkotaan, peternakan ayam petelur, budidaya ikan lele, dan pupuk kompos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
